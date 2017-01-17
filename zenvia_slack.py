@@ -4,7 +4,7 @@
 import time , requests
 from slackclient import SlackClient
 
-slack_client = SlackClient ('xoxb-118898388294-T7XTQJlgS6dF1dqZtzzfuuQk')
+slack_client = SlackClient ('')
 http = 'https://api-rest.zenvia360.com.br/services'
 i = True
 
